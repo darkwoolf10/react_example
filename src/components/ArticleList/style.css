@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.article-list {
+    list-style: none;
+}
+ul {
+    width: 100%;
+}
